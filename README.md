@@ -1,7 +1,6 @@
 # Soma Vital
 
 Plataforma para empresas avaliarem os riscos psicossociais exigidos pela NR-01, com um assistente de IA que trabalha sobre dados de saúde mental sem ver quem respondeu e sem ter a palavra final sobre os números.
-Pré-lançamento, pausado, ainda sem clientes.
 
 O código é privado. Mostro o sistema funcionando numa conversa. O case está em [ednan.page/cases/soma](https://ednan.page/cases/soma/)
 
@@ -58,7 +57,6 @@ Monólito modular: cada módulo separa domínio, aplicação, infraestrutura e A
 
 ## Limites
 
-- Pré-lançamento e pausado. Não está no ar, não tem clientes, e os dados do repositório são sintéticos.
 - O questionário não é um instrumento validado: a validação fatorial de parte dos itens está pendente. O termo de consentimento aguarda revisão jurídica, e o conteúdo do PDF aguarda validação por especialista em NR-01 e SST.
 - A proteção de quem responde depende da supressão de recortes pequenos (ver acima).
 - A bateria de avaliação do assistente tem ressalvas, sobretudo nas perguntas de inferência.
